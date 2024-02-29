@@ -4,9 +4,9 @@
 🌱 Passionate about the intersection of data science, machine learning, and AI. Currently pursuing my degree at Vivekanand Institute Of Professional Studies. Eager to connect with like-minded individuals, I am excited to leverage my skills in real-world applications and contribute to the future of data-driven innovation. Let's connect and embark on this transformative journey together!<br>
 
 ## 🌐 Socials:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  href=
-'https://www.linkedin.com/in/shlok-arora-091250269/
-'/>
+<a href='https://www.linkedin.com/in/shlok-arora-091250269/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
+</a>
 <img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif"  />
 
 ## 💻 Tech Stack:
