@@ -73,11 +73,7 @@ I'm a builder at heart—curious, hands-on, and always chasing the next meaningf
 ---
 
 
-<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShlokArora2709&theme=tokyonight&hide_border=true)
-
----
 
 </div>
 
