@@ -1,11 +1,11 @@
 # Hi there! I'm Shlok Arora
----
+
 
 ## About Me
 
 I'm a builder at heart—curious, hands-on, and always chasing the next meaningful problem. I love turning abstract AI concepts into real, usable products that make a difference. Whether it's training models, crafting APIs, or deploying full-stack systems, I enjoy every step of the process. For me, tech is not just about writing code—it's about creating impact with intention and creativity.
 
----
+
 # Tech Arsenal
 
 ### Languages
@@ -70,7 +70,7 @@ I'm a builder at heart—curious, hands-on, and always chasing the next meaningf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/>
 </p>
 
----
+
 
 
 
@@ -83,7 +83,7 @@ I'm a builder at heart—curious, hands-on, and always chasing the next meaningf
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokarora2709@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://shlokarora2709.github.io)
 
----
+
 <div align="center">
   <i>💡 Always learning, always growing, always coding!</i>
 </div>
